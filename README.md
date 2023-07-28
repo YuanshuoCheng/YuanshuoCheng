@@ -1,4 +1,4 @@
-## [Personal profile](https://yuanshuocheng.github.io/)
+## Personal profile: [Link](https://yuanshuocheng.github.io/)
 
 <!--
 **YuanshuoCheng/YuanshuoCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
